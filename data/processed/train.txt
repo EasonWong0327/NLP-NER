@@ -1,0 +1,10 @@
+{"text": "苹果公司发布了新款iPhone 15 Pro，售价为999美元", "labels": ["B-company", "I-company", "O", "O", "O", "B-product", "I-product", "I-product", "I-product", "O", "O", "O", "B-currency", "I-currency", "O"]}
+{"text": "2024年第一季度，中国GDP同比增长5.3%", "labels": ["B-time", "I-time", "I-time", "O", "B-region", "I-region", "O", "B-metric", "I-metric", "O", "O", "O", "B-metric", "I-metric", "O"]}
+{"text": "阿里巴巴在杭州设立了新的研发中心", "labels": ["B-company", "I-company", "O", "B-region", "I-region", "O", "O", "O", "O", "O", "O"]}
+{"text": "欧元兑美元汇率突破1.1关口", "labels": ["B-currency", "I-currency", "O", "B-currency", "I-currency", "O", "O", "O", "O"]}
+{"text": "特斯拉Model Y在中国市场的销量持续增长", "labels": ["B-company", "I-company", "O", "B-product", "I-product", "O", "O", "B-region", "I-region", "O", "O", "O", "O", "O"]}
+{"text": "2023年第四季度，公司营收达到100亿元人民币", "labels": ["B-time", "I-time", "I-time", "O", "O", "O", "O", "O", "B-metric", "I-metric", "O", "O", "B-currency", "I-currency", "O"]}
+{"text": "Microsoft发布了新的Surface Pro 9笔记本电脑", "labels": ["B-company", "I-company", "O", "O", "O", "B-product", "I-product", "I-product", "I-product", "O", "O"]}
+{"text": "上海证券交易所指数突破3000点", "labels": ["B-region", "I-region", "O", "O", "O", "O", "O", "B-metric", "I-metric", "O"]}
+{"text": "亚马逊Prime会员服务年费为139美元", "labels": ["B-company", "I-company", "O", "B-product", "I-product", "O", "O", "O", "O", "O", "B-currency", "I-currency", "O"]}
+{"text": "2024年春节期间，全国旅游收入达到5000亿元", "labels": ["B-time", "I-time", "O", "O", "O", "B-region", "I-region", "O", "O", "O", "O", "B-metric", "I-metric", "O", "B-currency", "I-currency", "O"]}

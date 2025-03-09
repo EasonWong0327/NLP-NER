@@ -1,0 +1,10 @@
+{"text": "Meta在旧金山发布了Quest 3 VR设备", "labels": ["B-company", "I-company", "O", "B-region", "I-region", "O", "O", "O", "B-product", "I-product", "I-product", "O", "O"]}
+{"text": "2024年3月，欧洲央行将利率维持在4.5%", "labels": ["B-time", "I-time", "I-time", "O", "B-region", "I-region", "O", "O", "O", "O", "O", "O", "B-metric", "I-metric", "O"]}
+{"text": "三星Galaxy S24系列手机在韩国市场热销", "labels": ["B-company", "I-company", "O", "B-product", "I-product", "I-product", "I-product", "O", "O", "O", "B-region", "I-region", "O", "O", "O"]}
+{"text": "英镑兑欧元汇率创下新高", "labels": ["B-currency", "I-currency", "O", "B-currency", "I-currency", "O", "O", "O", "O"]}
+{"text": "字节跳动在北京设立了新的研发中心", "labels": ["B-company", "I-company", "O", "B-region", "I-region", "O", "O", "O", "O", "O", "O"]}
+{"text": "2023年第三季度，全球PC出货量同比下降15%", "labels": ["B-time", "I-time", "I-time", "O", "O", "B-region", "I-region", "O", "O", "O", "B-product", "I-product", "O", "O", "O", "B-metric", "I-metric", "O", "O", "O", "B-metric", "I-metric", "O"]}
+{"text": "小米SU7电动汽车在中国市场正式发布", "labels": ["B-company", "I-company", "O", "B-product", "I-product", "I-product", "O", "O", "O", "O", "B-region", "I-region", "O", "O", "O", "O"]}
+{"text": "东京日经指数突破40000点", "labels": ["B-region", "I-region", "O", "O", "O", "O", "O", "B-metric", "I-metric", "O"]}
+{"text": "Spotify高级会员服务年费为99美元", "labels": ["B-company", "I-company", "O", "B-product", "I-product", "O", "O", "O", "O", "O", "B-currency", "I-currency", "O"]}
+{"text": "2024年春节期间，全国电影票房收入达到80亿元", "labels": ["B-time", "I-time", "O", "O", "O", "B-region", "I-region", "O", "O", "O", "O", "B-metric", "I-metric", "O", "O", "B-currency", "I-currency", "O"]} 

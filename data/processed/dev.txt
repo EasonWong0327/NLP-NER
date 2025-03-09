@@ -1,0 +1,10 @@
+{"text": "谷歌在硅谷设立了新的AI研究中心", "labels": ["B-company", "I-company", "O", "B-region", "I-region", "O", "O", "O", "O", "O", "O"]}
+{"text": "2024年2月，日本央行维持利率在-0.1%", "labels": ["B-time", "I-time", "I-time", "O", "B-region", "I-region", "O", "O", "O", "O", "O", "B-metric", "I-metric", "O"]}
+{"text": "索尼PlayStation 5游戏机销量突破5000万台", "labels": ["B-company", "I-company", "O", "B-product", "I-product", "I-product", "O", "O", "O", "O", "O", "B-metric", "I-metric", "O"]}
+{"text": "人民币兑日元汇率创下新低", "labels": ["B-currency", "I-currency", "O", "B-currency", "I-currency", "O", "O", "O", "O"]}
+{"text": "腾讯在深圳投资建设新的数据中心", "labels": ["B-company", "I-company", "O", "B-region", "I-region", "O", "O", "O", "O", "O", "O"]}
+{"text": "2023年全年，全球智能手机出货量达到12亿部", "labels": ["B-time", "I-time", "O", "O", "O", "B-region", "I-region", "O", "O", "O", "B-product", "I-product", "O", "O", "O", "B-metric", "I-metric", "O"]}
+{"text": "苹果Vision Pro头显设备在美国市场首发", "labels": ["B-company", "I-company", "O", "B-product", "I-product", "I-product", "O", "O", "O", "O", "B-region", "I-region", "O", "O", "O"]}
+{"text": "香港恒生指数突破20000点大关", "labels": ["B-region", "I-region", "O", "O", "O", "O", "O", "B-metric", "I-metric", "O", "O", "O"]}
+{"text": "Netflix订阅服务月费为15.99美元", "labels": ["B-company", "I-company", "O", "B-product", "I-product", "O", "O", "O", "O", "O", "B-currency", "I-currency", "O"]}
+{"text": "2024年春节假期，国内旅游收入同比增长30%", "labels": ["B-time", "I-time", "O", "O", "O", "B-region", "I-region", "O", "O", "O", "O", "B-metric", "I-metric", "O", "O", "O", "B-metric", "I-metric", "O"]}
