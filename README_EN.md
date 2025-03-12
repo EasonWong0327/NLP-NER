@@ -2,6 +2,8 @@
 
 A deep learning-based Named Entity Recognition (NER) system supporting both Chinese and English, with multiple advanced model architectures for identifying entities such as products, regions, time expressions, metrics, companies, and currencies.
 
+[🇨🇳 中文](README.md) | [🇺🇸 English](README_EN.md)
+
 ## Features
 
 - Bilingual support (Chinese & English)
